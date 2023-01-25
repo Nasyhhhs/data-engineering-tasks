@@ -5,4 +5,5 @@
 
 
 ### Анализ динамики доходов и прибыли HW_Superstore.xlsx
-file:///C:/Users/PC/Desktop/DE/hw1/HW%20-%20Superstore.htm
+
+![Excel dashboard_page-0001](https://user-images.githubusercontent.com/109277211/214608471-94466a7a-0a91-48ef-9613-33ec18ffb6e5.jpg)
