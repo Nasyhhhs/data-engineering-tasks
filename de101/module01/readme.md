@@ -5,4 +5,4 @@
 
 
 ### Анализ динамики доходов и прибыли HW_Superstore.xlsx
-
+file:///C:/Users/PC/Desktop/DE/hw1/HW%20-%20Superstore.htm
